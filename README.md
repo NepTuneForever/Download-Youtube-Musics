@@ -25,18 +25,17 @@ Um script simples e eficiente para baixar músicas do YouTube via terminal.
       python3 Downloader.py 
  ```
 
----
-
 ## 🛠️ Pré-requisitos
 Certifique-se de ter instalado:
 
-Python 3.x
-pip (gerenciador de pacotes do Python)
-Bibliotecas necessárias (instaladas com pip install -r requirements.txt), incluindo:
-pytube (para baixar vídeos do YouTube)
-os (gerenciamento de arquivos)
-⚠️ Aviso
+* Python 3.x
+* pip (gerenciador de pacotes do Python)
+*    Bibliotecas necessárias (instaladas com pip install -r requirements.txt), incluindo:
+*    pytube (para baixar vídeos do YouTube)
+* os (gerenciamento de arquivos)
+
+# ⚠️ Aviso
 Este projeto foi criado para fins educacionais e experimentais. Não utilize para atividades ilegais.
 
-📜 Licença
+## 📜 Licença
 Distribuído sob a licença MIT.
