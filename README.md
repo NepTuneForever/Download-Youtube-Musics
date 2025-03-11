@@ -20,7 +20,7 @@ Um script simples e eficiente para baixar músicas do YouTube via terminal.
 4. Execute o script::  
    ```bash
    python Downloader.py
-  ou:  
+ ou:  
    ```bash
    python3 Downloader.py
    ```
