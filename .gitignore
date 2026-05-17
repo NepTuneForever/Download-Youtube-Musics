@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Local runtime artifacts
+ffmpeg/
+ffmpeg.zip
+musicas baixadas/
